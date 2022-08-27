@@ -1,1 +1,1 @@
-# demo-springcloud-config
+# demo-springcloud-config-repo
